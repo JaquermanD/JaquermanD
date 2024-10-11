@@ -15,6 +15,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="35" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="35" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge" height="35" alt="woocommerce logo"  />
