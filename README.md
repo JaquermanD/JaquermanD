@@ -1,6 +1,4 @@
-<br clear="both">
-
-<img align="left" height="600" src="https://tenor.com/es-419/view/dominocrowned-gif-15482066999929946197"  />
+<img align="left" height="400" src="https://i.pinimg.com/originals/cb/6b/c2/cb6bc2628f57ec00558e8b600edc9d15.jpg"  />
 
 ###
 
@@ -58,7 +56,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaquermanD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaquermanD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -66,8 +64,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Jaquerman">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jaquerman&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/mortal_kombat12axl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mortal_kombat12axl&count=10&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
