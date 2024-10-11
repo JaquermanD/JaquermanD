@@ -1,4 +1,4 @@
-<img align="left" height="300" src="https://i.pinimg.com/originals/cb/6b/c2/cb6bc2628f57ec00558e8b600edc9d15.jpg"  />
+<img align="left" height="350" src="https://i.pinimg.com/originals/cb/6b/c2/cb6bc2628f57ec00558e8b600edc9d15.jpg"  />
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -55,6 +55,20 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h1 align="center">🌻 フラワーボーイ 🌻</h1>
+
+###
+
+<br clear="both">
+
+<h4 align="center">My creativity creates new worlds</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaquermanD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
