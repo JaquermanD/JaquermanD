@@ -1,4 +1,4 @@
-<img align="left" height="400" src="https://i.pinimg.com/originals/cb/6b/c2/cb6bc2628f57ec00558e8b600edc9d15.jpg"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/cb/6b/c2/cb6bc2628f57ec00558e8b600edc9d15.jpg"  />
 
 ###
 
